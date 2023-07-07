@@ -1,1 +1,2 @@
-this is the filnal page of chapter 1 in Git Practice Book
+this is the final page of chapter 1 in Git Practice Book.
+do not copy this page.
